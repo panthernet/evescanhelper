@@ -21,6 +21,7 @@ Feel free to leave suggestions on the [Issues page](https://github.com/pantherne
 * Press Upload button to read data from your clipboard
 * Watch the results
 
-If you like, please support with ISK donation to [Duke Veldspar](https://zkillboard.com/character/96496243/).
+### Donation
+If you like this app, please support us with ISK donation to [Duke Veldspar](https://zkillboard.com/character/96496243/).
 Thank you!
 
