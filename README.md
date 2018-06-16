@@ -25,3 +25,4 @@ Feel free to leave suggestions on the [Issues page](https://github.com/pantherne
 If you like this app, please support us with ISK donation to [Duke Veldspar](https://zkillboard.com/character/96496243/).
 Thank you!
 
+![Screen](http://joxi.ru/EA4QZq7swebkor.jpg)
