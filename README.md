@@ -9,6 +9,10 @@ Feel free to leave suggestions in the [Issues page](https://github.com/pantherne
 * Receive notification if there are new signatures in a system
 * Search sigs and copy them to a clipboard
 
+### Requirements
+* Windows OS
+* [.NET Framework 4.5](https://www.microsoft.com/en-us/download/details.aspx?id=30653)
+
 If you like, please support with ISK donation to [Duke Veldspar](https://zkillboard.com/character/96496243/).
 Thank you!
 
