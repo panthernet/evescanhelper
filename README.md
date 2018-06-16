@@ -13,6 +13,14 @@ Feel free to leave suggestions on the [Issues page](https://github.com/pantherne
 * Windows OS
 * [.NET Framework 4.5](https://www.microsoft.com/en-us/download/details.aspx?id=30653)
 
+### How to use
+* Open Probe Scanner window (Alt + P)
+* Press Ctrl+A and then Ctrl+C to copy all the sigs into the clipboard
+* Open Scan Helper app
+* Select the system you have sigs for using a combobox or typing its name inside its input box
+* Press Upload button to read data from your clipboard
+* Watch the results
+
 If you like, please support with ISK donation to [Duke Veldspar](https://zkillboard.com/character/96496243/).
 Thank you!
 
