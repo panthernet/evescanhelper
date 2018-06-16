@@ -134,7 +134,7 @@ namespace EVEScanHelper.Classes
         public static bool Prepare()
         {
             if (File.Exists(DBFile)) return true;
-            RunCommand("ALTER COLUMN `lastUpdate` SET  NOT NULL DEFAULT CURRENT_TIMESTAMP");
+            //RunCommand("ALTER COLUMN `lastUpdate` SET  NOT NULL DEFAULT CURRENT_TIMESTAMP");
             try
             {
                 SQLiteConnection.CreateFile(DBFile);
