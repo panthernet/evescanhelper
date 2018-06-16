@@ -37,9 +37,9 @@ namespace EVEScanHelper.Classes
                 HorizontalAlignment = HorizontalAlignment.Center,
             };
             tb.Inlines.Clear();
-            var run = new Run("Visit out GitHub repository!"); 
-            var l2 = new Hyperlink(run) {NavigateUri = new Uri("https://github.com")};
-            l2.RequestNavigate += (sender, args) => Process.Start("https://github.com");
+            var run = new Run("Visit our open-source GitHub repository!"); 
+            var l2 = new Hyperlink(run) {NavigateUri = new Uri("https://github.com/panthernet/evescanhelper")};
+            l2.RequestNavigate += (sender, args) => Process.Start("https://github.com/panthernet/evescanhelper");
             tb.Inlines.Add(l2);
             sp.Children.Add(tb);
 
