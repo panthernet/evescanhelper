@@ -21,7 +21,7 @@ namespace EVEScanHelper
     {
         private string _selectedSystem;
         private string _outputText;
-        public const string VERSION = "1.0.1";
+        public const string VERSION = "1.0.2";
         private bool _skipProcessing;
         private string _timestampText;
         private SigDataItem _selectedSig;
@@ -105,9 +105,9 @@ namespace EVEScanHelper
 
         private void ProcessInputData(string text)
         {
+            SigsList.Clear();
             if(_skipProcessing || string.IsNullOrEmpty(text)) return;
             StyleOutput(Colors.Black, 14, false);
-            SigsList.Clear();
             if (!IsDataValid(text))
             {
                 StyleOutput(Colors.Red, 20, true);
